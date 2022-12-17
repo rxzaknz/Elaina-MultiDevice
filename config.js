@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_pahilz26' //Link Instagrammu
-global.sgh = 'https://github.com/amelcanss' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/IqFfoXcdh7UFyPoQTpKoQp'
+global.sig = 'https://instagram.com/ksa.rxza' //Link Instagrammu
+global.sgh = 'https://github.com/rxzaknz' //Link Githubmu
+global.sgc = '-'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '087833306677' //Nomor Danamu
-global.ppulsa = '087833306677' //Xl
-global.psaweria = 'https://saweria.com/amelcanss' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '087845094531' //Nomor Danamu
+global.ppulsa = '0087845094531' //Xl
+global.psaweria = 'https://saweria.com/Rxza' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287852161042' //Nomor Bot
-global.nomorown = '087833306677' //Nomor Owner
-global.namebot = 'FAHIL BOTz' //Nama Bot
-global.nameown = 'fahil' // Nama Owner
+global.nomorbot = '62878450945310' //Nomor Bot
+global.nomorown = '087845094531' //Nomor Owner
+global.namebot = 'Rxz Md' //Nama Bot
+global.nameown = 'Aprija Gemink' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287833306677', '❦ fahil 🎐', true] //Ganti jd nomormu sama Namamu
+  ['087845094531', '❦ Aprija 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -100,11 +100,11 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 FAHIL BOTZ 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘FAHIL BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'FAHIL BOTZ'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rxz Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'Rxz Md'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
-global.titlebot = 'By Fahil'
+global.titlebot = 'By Aprija'
 global.author = global.wm
 global.logo = 'https://ibb.co/17RY7x9'
 
